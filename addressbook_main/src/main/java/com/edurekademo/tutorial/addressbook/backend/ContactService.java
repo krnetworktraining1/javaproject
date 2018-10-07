@@ -17,7 +17,7 @@ public class ContactService {
 
     // Create dummy data by randomly combining first and last names
     static String[] fnames = { "Peter", "Alice", "John", "Mike", "Olivia",
-            "Nina", "Alex", "Ram", "Dan", "Umberto", "Henrik", "Rene", "Lisa",
+            "Nina", "Alex", "Ram", "shyam", "Umberto", "Henrik", "Rene", "Lisa",
             "Linda", "Timothy", "Daniel", "Brian", "George", "Scott",
             "Jennifer" };
     static String[] lnames = { "Smith", "Johnson", "Williams", "Jones",
